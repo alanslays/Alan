@@ -21,13 +21,15 @@ namespace Zadanie4
             base.Dispose(disposing);
         }
 
+       
+
         #region Windows Form Designer generated code
 
         /// <summary>
         ///  Required method for Designer support - do not modify
         ///  the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
+        private void InitializeComponent(int v)
         {
             label1 = new Label();
             label2 = new Label();
@@ -54,7 +56,7 @@ namespace Zadanie4
             label2.Size = new Size(127, 25);
             label2.TabIndex = 1;
             label2.Text = "Bob ma 100 zł";
-            label2.Click += label2_Click;
+         // label2.Click += label2_Click;
             // 
             // label3
             // 
@@ -107,7 +109,7 @@ namespace Zadanie4
             Controls.Add(label1);
             Name = "Form1";
             Text = "Zabawa z Joem i Bobem";
-            Load += Form1_Load;
+         // Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

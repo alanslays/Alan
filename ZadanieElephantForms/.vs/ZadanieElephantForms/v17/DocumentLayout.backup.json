@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5207E9-39BA-487A-93C6-7A5B35CD3013}|ZadanieElephantForms.csproj|c:\\users\\admin\\source\\repos\\alan\\zadanieelephantforms\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5207E9-39BA-487A-93C6-7A5B35CD3013}|ZadanieElephantForms.csproj|solutionrelative:elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5207E9-39BA-487A-93C6-7A5B35CD3013}|ZadanieElephantForms.csproj|c:\\users\\admin\\source\\repos\\alan\\zadanieelephantforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5207E9-39BA-487A-93C6-7A5B35CD3013}|ZadanieElephantForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5207E9-39BA-487A-93C6-7A5B35CD3013}|ZadanieElephantForms.csproj|c:\\users\\admin\\source\\repos\\alan\\zadanieelephantforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5207E9-39BA-487A-93C6-7A5B35CD3013}|ZadanieElephantForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 153,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\Elephant.cs",
+              "RelativeDocumentMoniker": "Elephant.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\Elephant.cs",
+              "RelativeToolTip": "Elephant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:03:18.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:30:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Alan\\ZadanieElephantForms\\Form1.cs [Projekt]*",
+              "RelativeToolTip": "Form1.cs [Projekt]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:28:28.771Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

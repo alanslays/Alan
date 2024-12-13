@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.Form1.resources
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.sourcelink.json
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\bin\Debug\net9.0-windows\ZADANIE8FARMER.exe
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\bin\Debug\net9.0-windows\ZADANIE8FARMER.deps.json
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\bin\Debug\net9.0-windows\ZADANIE8FARMER.runtimeconfig.json
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\bin\Debug\net9.0-windows\ZADANIE8FARMER.dll
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\bin\Debug\net9.0-windows\ZADANIE8FARMER.pdb
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.dll
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\refint\ZADANIE8FARMER.dll
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.pdb
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ZADANIE8FARMER.genruntimeconfig.cache
+C:\Users\admin\source\repos\Alan\ZADANIE8FARMER\obj\Debug\net9.0-windows\ref\ZADANIE8FARMER.dll

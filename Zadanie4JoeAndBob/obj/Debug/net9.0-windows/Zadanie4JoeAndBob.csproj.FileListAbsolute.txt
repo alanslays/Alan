@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\bin\Debug\net9.0-windows\Zadanie4JoeAndBob.exe
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\bin\Debug\net9.0-windows\Zadanie4JoeAndBob.deps.json
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\bin\Debug\net9.0-windows\Zadanie4JoeAndBob.runtimeconfig.json
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\bin\Debug\net9.0-windows\Zadanie4JoeAndBob.dll
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\bin\Debug\net9.0-windows\Zadanie4JoeAndBob.pdb
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.Form1.resources
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.sourcelink.json
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.dll
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\refint\Zadanie4JoeAndBob.dll
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.pdb
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\Zadanie4JoeAndBob.genruntimeconfig.cache
+C:\Users\admin\source\repos\Alan\Zadanie4JoeAndBob\obj\Debug\net9.0-windows\ref\Zadanie4JoeAndBob.dll

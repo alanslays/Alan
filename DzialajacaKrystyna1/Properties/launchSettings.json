@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DzialajacaKrystyna1": {
+      "commandName": "Project"
+    },
+    "Profil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\admin\\source\\repos\\Alan\\DzialajacaKrystyna1\\DzialajacaKrystyna1.exe.txt"
+    }
+  }
+}

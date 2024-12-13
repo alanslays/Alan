@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Alan\ZADANIE6\bin\Debug\net9.0-windows\ZADANIE6.exe
+C:\Users\admin\source\repos\Alan\ZADANIE6\bin\Debug\net9.0-windows\ZADANIE6.deps.json
+C:\Users\admin\source\repos\Alan\ZADANIE6\bin\Debug\net9.0-windows\ZADANIE6.runtimeconfig.json
+C:\Users\admin\source\repos\Alan\ZADANIE6\bin\Debug\net9.0-windows\ZADANIE6.dll
+C:\Users\admin\source\repos\Alan\ZADANIE6\bin\Debug\net9.0-windows\ZADANIE6.pdb
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.Form1.resources
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.sourcelink.json
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.dll
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\refint\ZADANIE6.dll
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.pdb
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ZADANIE6.genruntimeconfig.cache
+C:\Users\admin\source\repos\Alan\ZADANIE6\obj\Debug\net9.0-windows\ref\ZADANIE6.dll
