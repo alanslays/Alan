@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.Form1.resources
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Debug\net9.0-windows\DzialajacaKrystyna1.sourcelink.json

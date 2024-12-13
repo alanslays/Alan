@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\bin\Debug\net9.0-windows\ZadanieElephantForms.exe
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\bin\Debug\net9.0-windows\ZadanieElephantForms.deps.json
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\bin\Debug\net9.0-windows\ZadanieElephantForms.runtimeconfig.json
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\bin\Debug\net9.0-windows\ZadanieElephantForms.dll
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\bin\Debug\net9.0-windows\ZadanieElephantForms.pdb
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.Form1.resources
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.sourcelink.json
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.dll
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\refint\ZadanieElephantForms.dll
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.pdb
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ZadanieElephantForms.genruntimeconfig.cache
+C:\Users\admin\source\repos\Alan\ZadanieElephantForms\obj\Debug\net9.0-windows\ref\ZadanieElephantForms.dll

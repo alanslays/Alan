@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.Form1.resources
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\zadanie1\bin\Debug\zadanie1.exe.config
+C:\Users\admin\source\repos\Alan\zadanie1\bin\Debug\zadanie1.exe
+C:\Users\admin\source\repos\Alan\zadanie1\bin\Debug\zadanie1.pdb
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.exe
+C:\Users\admin\source\repos\Alan\zadanie1\obj\Debug\zadanie1.pdb

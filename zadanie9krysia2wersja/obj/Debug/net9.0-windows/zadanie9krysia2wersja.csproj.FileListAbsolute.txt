@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\bin\Debug\net9.0-windows\zadanie9krysia2wersja.exe
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\bin\Debug\net9.0-windows\zadanie9krysia2wersja.deps.json
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\bin\Debug\net9.0-windows\zadanie9krysia2wersja.runtimeconfig.json
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\bin\Debug\net9.0-windows\zadanie9krysia2wersja.dll
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\bin\Debug\net9.0-windows\zadanie9krysia2wersja.pdb
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.Form1.resources
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.sourcelink.json
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.dll
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\refint\zadanie9krysia2wersja.dll
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.pdb
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\zadanie9krysia2wersja.genruntimeconfig.cache
+C:\Users\admin\source\repos\Alan\zadanie9krysia2wersja\obj\Debug\net9.0-windows\ref\zadanie9krysia2wersja.dll

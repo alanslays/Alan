@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.Form1.resources
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.AssemblyInfo.cs
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.sourcelink.json
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\bin\Release\net9.0-windows\DzialajacaKrystyna1.exe
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\bin\Release\net9.0-windows\DzialajacaKrystyna1.deps.json
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\bin\Release\net9.0-windows\DzialajacaKrystyna1.runtimeconfig.json
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\bin\Release\net9.0-windows\DzialajacaKrystyna1.dll
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\bin\Release\net9.0-windows\DzialajacaKrystyna1.pdb
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.dll
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\refint\DzialajacaKrystyna1.dll
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.pdb
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\DzialajacaKrystyna1.genruntimeconfig.cache
+C:\Users\admin\source\repos\Alan\DzialajacaKrystyna1\obj\Release\net9.0-windows\ref\DzialajacaKrystyna1.dll
