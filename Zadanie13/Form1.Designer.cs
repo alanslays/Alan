@@ -52,6 +52,7 @@
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(180, 31);
             numericUpDown1.TabIndex = 1;
+            numericUpDown1.ValueChanged += numericUpDown1_ValueChanged;
             // 
             // fancyBox
             // 
@@ -62,6 +63,7 @@
             fancyBox.TabIndex = 2;
             fancyBox.Text = "Dekoracje fantazyjne";
             fancyBox.UseVisualStyleBackColor = true;
+            fancyBox.CheckedChanged += fancyBox_CheckedChanged;
             // 
             // healthyBox
             // 
@@ -72,6 +74,7 @@
             healthyBox.TabIndex = 3;
             healthyBox.Text = "Opcja zdrowa";
             healthyBox.UseVisualStyleBackColor = true;
+            healthyBox.CheckedChanged += healthyBox_CheckedChanged;
             // 
             // label2
             // 
