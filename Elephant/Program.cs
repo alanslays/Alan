@@ -1,4 +1,4 @@
-namespace ElephantFormsApp
+namespace Elephant
 {
     internal static class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace ElephantFormsApp
+﻿namespace Elephant
 {
     partial class Form1
     {
@@ -31,11 +31,12 @@
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(69, 28);
+            button1.Location = new Point(109, 31);
             button1.Name = "button1";
             button1.Size = new Size(112, 34);
             button1.TabIndex = 0;
@@ -45,7 +46,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(69, 78);
+            button2.Location = new Point(109, 87);
             button2.Name = "button2";
             button2.Size = new Size(112, 34);
             button2.TabIndex = 1;
@@ -55,23 +56,38 @@
             // 
             // button3
             // 
-            button3.Location = new Point(69, 131);
+            button3.Location = new Point(109, 144);
             button3.Name = "button3";
             button3.Size = new Size(112, 34);
             button3.TabIndex = 2;
             button3.Text = "Zamień!";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(109, 203);
+            button4.Name = "button4";
+            button4.Size = new Size(112, 34);
+            button4.TabIndex = 3;
+            button4.Text = "Tajemnica";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(256, 196);
+            ClientSize = new Size(343, 280);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
-            Text = "Form1";
+            Text = "Tajemnicza podmianka";
+            Load += Form1_Load;
             ResumeLayout(false);
         }
 
@@ -80,5 +96,6 @@
         private Button button1;
         private Button button2;
         private Button button3;
+        private Button button4;
     }
 }
