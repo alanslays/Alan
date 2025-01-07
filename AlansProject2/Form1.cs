@@ -1,11 +1,10 @@
-namespace AlansProject1
+namespace AlansProject2
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-            
         }
     }
 }

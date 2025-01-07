@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            button2 = new Button();
+            label2 = new Label();
+            shifts = new NumericUpDown();
+            workerBeeJob = new ComboBox();
+            label1 = new Label();
             report = new TextBox();
             nextShift = new Button();
-            label1 = new Label();
-            workerBeeJob = new ComboBox();
-            shifts = new NumericUpDown();
-            label2 = new Label();
-            button2 = new Button();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)shifts).BeginInit();
             SuspendLayout();
@@ -54,6 +54,49 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Przydział prac robotników";
             // 
+            // button2
+            // 
+            button2.Location = new Point(15, 106);
+            button2.Name = "button2";
+            button2.Size = new Size(471, 34);
+            button2.TabIndex = 4;
+            button2.Text = "Przypisz tę pracę pszczole";
+            button2.UseVisualStyleBackColor = true;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(306, 29);
+            label2.Name = "label2";
+            label2.Size = new Size(70, 25);
+            label2.TabIndex = 3;
+            label2.Text = "Zmiany";
+            // 
+            // shifts
+            // 
+            shifts.Location = new Point(306, 57);
+            shifts.Name = "shifts";
+            shifts.Size = new Size(180, 31);
+            shifts.TabIndex = 2;
+            // 
+            // workerBeeJob
+            // 
+            workerBeeJob.FormattingEnabled = true;
+            workerBeeJob.Items.AddRange(new object[] { "Raport zmiany numer 20", "Robotnica numer 1 zakończy \"Wytwarzanie miodu\" po tej zmianie", "Robotnica numer 2 robi \"Pielęgnacja jaj\" jeszcze przez 1 zmiany", "Robotnica numer 3 nie pracuje", "Robotnica numer 4 robi \"Zbieranie nektaru\" jeszcze przez 2 zmiany" });
+            workerBeeJob.Location = new Point(15, 55);
+            workerBeeJob.Name = "workerBeeJob";
+            workerBeeJob.Size = new Size(182, 33);
+            workerBeeJob.TabIndex = 1;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(6, 27);
+            label1.Name = "label1";
+            label1.Size = new Size(155, 25);
+            label1.TabIndex = 0;
+            label1.Text = "Zadanie robotnicy";
+            // 
             // report
             // 
             report.Location = new Point(12, 201);
@@ -71,50 +114,6 @@
             nextShift.TabIndex = 0;
             nextShift.Text = "Przepracuj następną zmianę";
             nextShift.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(6, 27);
-            label1.Name = "label1";
-            label1.Size = new Size(155, 25);
-            label1.TabIndex = 0;
-            label1.Text = "Zadanie robotnicy";
-            // 
-            // workerBeeJob
-            // 
-            workerBeeJob.FormattingEnabled = true;
-            workerBeeJob.Items.AddRange(new object[] { "Raport zmiany numer 20", "Robotnica numer 1 zakończy \"Wytwarzanie miodu\" po tej zmianie", "Robotnica numer 2 robi \"Pielęgnacja jaj\" jeszcze przez 1 zmiany", "Robotnica numer 3 nie pracuje", "Robotnica numer 4 robi \"Zbieranie nektaru\" jeszcze przez 2 zmiany" });
-            workerBeeJob.Location = new Point(15, 55);
-            workerBeeJob.Name = "workerBeeJob";
-            workerBeeJob.Size = new Size(182, 33);
-            workerBeeJob.TabIndex = 1;
-            workerBeeJob.DropDownStyleChanged += DropDownList;
-            // 
-            // shifts
-            // 
-            shifts.Location = new Point(306, 57);
-            shifts.Name = "shifts";
-            shifts.Size = new Size(180, 31);
-            shifts.TabIndex = 2;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(306, 29);
-            label2.Name = "label2";
-            label2.Size = new Size(70, 25);
-            label2.TabIndex = 3;
-            label2.Text = "Zmiany";
-            // 
-            // button2
-            // 
-            button2.Location = new Point(15, 106);
-            button2.Name = "button2";
-            button2.Size = new Size(471, 34);
-            button2.TabIndex = 4;
-            button2.Text = "Przypisz tę pracę pszczole";
-            button2.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 

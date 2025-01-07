@@ -61,4 +61,3 @@ public Worker(string[] jobsICanDo)
         else
             return false;
     }
-}
