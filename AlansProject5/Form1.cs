@@ -9,8 +9,6 @@ namespace AlansProject5
 
         private Game game;
 
-
-
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -37,7 +35,7 @@ namespace AlansProject5
                 listHand.Items.Add(cardName);
             textBooks.Text = game.DescribeBooks();
             textProgress.Text = game.DescribePlayerHands();
-            textProgress.SelectionStart = textProgress.Text.Lenght;
+            textProgress.SelectionStart = textProgress.Text.Length;
             textProgress.ScrollToCaret();
         }
 
@@ -52,6 +50,11 @@ namespace AlansProject5
             if (game.PlayOneRound(listHand.SelectedIndex))
             {
                 textProgress.Text += "Zwyciêzc¹ jest..." + game.GetWinnerName();
+                buttonAsk.Enabled = false;
+            }
+            else
+            {
+                UpdateForm();
             }
         }
     }
