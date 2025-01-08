@@ -32,8 +32,8 @@ public Worker(string[] jobsICanDo)
 
         public bool DoThisJob(string job, int numberOfShifts)
     {
-        if (!String.IsNullOrEmpty(currentJob))
-            return false;
+    if (!String.IsNullOrEmpty(currentJob))
+        return false;
         for (int i = 0; i < JobsICanDo.Lenght; i++)
             if (jobsICanDo[i] == job)
             {
