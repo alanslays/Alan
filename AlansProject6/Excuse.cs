@@ -99,7 +99,7 @@ class Excuse
 {
     public string Description { get; set; }
     public string Results { get; set; }
-    public DayTime LastUsed { get; set; }
+    public DateTime LastUsed { get; set; }
     public string ExcusePath { get; set; }
     public Excuse()
     {
