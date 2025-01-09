@@ -122,5 +122,17 @@ class Excuse
         using (StreamReader reader = new StreamReader(ExcusePath)) {
             Description = reader.ReadLine();
             Results = reader.ReadLine();
-            LastUsed = 
+            LastUsed = Convert.ToDateTime(reader.ReadLine());
+        }
     }
+
+    public void Save(string fileName) {
+        using (StreamWriter writer = new StreamWriter(fileName))
+        {
+            writer.WriteLine(Description);
+            writer.WriteLine(Results);
+            writer.WriteLine(LastUsed);
+        }
+
+    }
+}
