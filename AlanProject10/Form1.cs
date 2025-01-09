@@ -101,7 +101,7 @@ namespace AlanProject10
         Deck deck2;
         Random random = new Random();
             InitializeComponent();
-        }
+        
 
         private void Form1_Load(object sender, EventArgs e)
         {
