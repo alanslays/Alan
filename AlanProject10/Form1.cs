@@ -5,7 +5,8 @@ namespace AlanProject10
 
         
         public Form1()
-        {public void RedrawDeck(int DeckNumber)
+        {
+            public void RedrawDeck(int DeckNumber)
         {
             if (DeckNumber == 1)
             {
