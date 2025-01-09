@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Drawing.Text;
+using System.Globalization;
 
 private Excuse currentExcuse = new Excuse();
 private string selectedFolder = "";
@@ -62,3 +64,63 @@ private void randomExcuse_Click(object sender, EventArgs e)
         UpdateForm(false);
     }
 }
+
+private bool CheckChanged()
+{
+    if (formChanged)
+    {
+        DialogResult result = MessageBox.Show("Bieżąca wymówka nie została zapisana. Czy chcesz kontynuować?", "Ostrzeżenie", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+        if (result == DialogResult.No)
+
+            return false;
+    }
+    return true;
+}
+
+private void description_TextChanged(object sender, EventArgs e)
+{
+    currentExcuse.Description = description.Text;
+    UpdateForm(true);
+}
+
+private void results_TextChanged(object sender, EventArgs e)
+{
+    currentExcuse.Results = results.Text;
+    UpdateForm(true);
+}
+
+private void lastUsed_ValueChanged(object sender, EventArgs e)
+{
+    currentExcuse.LastUsed = lastUsed.Value;
+    UpdateForm(true);
+}
+
+class Excuse
+{
+    public string Description { get; set; }
+    public string Results { get; set; }
+    public DayTime LastUsed { get; set; }
+    public string ExcusePath { get; set; }
+    public Excuse()
+    {
+        ExcusePath = "";
+    }
+    public Excuse(string ExcusePath)
+    {
+        OpenFile(ExcusePath);
+    }
+
+    public Excuse(Random random, string folder)
+    {
+        string[] fileNames = Directory.GetFiles(folder, "*.txt");
+        OpenFileDialog(fileNames[random.Next(fileNames.Length)]);
+    }
+
+    private void OpenFile(string excusePath)
+    {
+        this.ExcusePath = excusePath;
+        using (StreamReader reader = new StreamReader(ExcusePath)) {
+            Description = reader.ReadLine();
+            Results = reader.ReadLine();
+            LastUsed = 
+    }

@@ -47,10 +47,10 @@ namespace AlansProject3
         {
             currentLocation = new Location;
 
-            exits.Items.Clear();
+            exists.Items.Clear();
             for (int i = 0; i < currentLocation.Exits.Length; i++)
-                exits.Items.Add(currentLocation.Exits[i].Name);
-            exits.SelectedIndex = 0;
+                exists.Items.Add(currentLocation.Exits[i].Name);
+            exists.SelectedIndex = 0;
 
             description.Text = currentLocation.Description;
 
@@ -62,7 +62,7 @@ namespace AlansProject3
 
         private void goHere_Click(object sender, EventArgs e)
         {
-            MoveToANewLocation(currentLocation.Exits[exits.SelectedIndec]);
+            MoveToANewLocation(currentLocation.Exits[exists.SelectedIndex]);
         }
 
 
