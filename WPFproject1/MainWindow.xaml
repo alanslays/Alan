@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid Grid.Row="1" Margin="120, 0, 60 60"></Grid>
+        <TextBlock Text="Imię" Margin="0,0,0,20"></TextBlock>
+
+            <Label Content="TestLabel"/>
+            </Label>
+            <Label Width="200" HorizontalAlignment="Left"></Label>
+
     </Grid>
 </Window>
