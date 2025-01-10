@@ -31,4 +31,4 @@ using (StreamWriter writer = new StreamWriter("output.dat", false))
             string bufferContents = new string(buffer);
             writer.WriteLine("  " + bufferContents.Substring(0, charactersRead));
     }
-} 
+}

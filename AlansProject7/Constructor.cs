@@ -1,11 +1,10 @@
-﻿
-using System;
+﻿using System;
 
 public class Worker
 {
     public Worker(string[] jobsICanDo)
     {
-        this.jobsICanDo;
+        _ = this.jobsICanDo;
     }
 
     public int ShiftsLeft
