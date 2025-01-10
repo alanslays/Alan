@@ -32,7 +32,7 @@ public class Worker
     {
         if (!string.IsNullOrEmpty(currentJob))
         {
-            return false;
+           // return false
                     for (int i = 0; i < jobsICanDo.Length; i++)
                         if (jobsICanDo[i] == job)
                             currentJob = job;
@@ -93,7 +93,7 @@ public class Queen
                 if (workers[i].ShiftsLeft > 0)
                 report += "Robotnica numer " + (i + 1) + " robi '" + workers[i].CurrentJob + "' jeszcze przez " + workers[i].ShiftsLeft + " zmiany \r\n";
             else
-                report += "Robotnica numer " + (i + 1) + " zakończy '" + workers[i].CurrentJob + "' po tej zmianie \r\n"
+                report += "Robotnica numer " + (i + 1) + " zakończy '" + workers[i].CurrentJob + "' po tej zmianie \r\n";
         }
         return report;
     }
