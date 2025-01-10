@@ -8,11 +8,28 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid Grid.Row="1" Margin="120, 0, 60 60"></Grid>
-        <TextBlock Text="Imię" Margin="0,0,0,20"></TextBlock>
+        <TextBlock Text="Imię" Margin="0,0,0,20" Style="{StaticResource SubheaderTextStyle}"></TextBlock>
 
-            <Label Content="TestLabel"/>
-            </Label>
-            <Label Width="200" HorizontalAlignment="Left"></Label>
+        <StackPanel Orientation="Horizontal" Grid.Row="1"></StackPanel>
+        <TextBox x:Name="playerName" FontSize="24" Width="500" MinWidth="300">
+
+        </TextBox>
+
+        <Button x:Name="startButton" Margin="20,0" Content="Rozpocznij grę!"></Button>
+
+        <TextBlock Text="Postępy gry" Style="{StaticResource SubheaderTextStyle}" Margin="0, 20, 0, 20" Grid.Row="2"></TextBlock>
+
+        <ScrollViewer Grid.Row="3" FontSize="24" Background="Gray" Foreground="Black"></ScrollViewer>
+
+        <TextBlock Text="Grupy" Style="{StaticResource SubheaderTextStyle}" Margin="0,20,0,20" Grid.Row="4"></TextBlock>
+
+        <ScrollViewer FontSize="24" Background="White" Foreground="Black" Grid.Row="5" Grid.RowSpan="2"></ScrollViewer>
+
+        <TextBlock Text="Ręka" Style="{StaticResource SubheaderTextStyle}" Grid.Row="0" Grid.Column="2" Margin="0,0,0,20"></TextBlock>
+
+        <ListBox x:Name="cards" Background="White" FontSize="24" Height="Auto" Margin="0,0,0,20" Grid.Row="1" Grid.RowSpan="5" Grid.Column="2"></ListBox>
+
+        <Button x:Name="askForACard" Content="Zażądaj karty" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="6" Grid.Column="2"></Button>
 
     </Grid>
 </Window>
