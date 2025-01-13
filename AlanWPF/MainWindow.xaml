@@ -17,9 +17,9 @@
         </Grid.ColumnDefinitions>
 
         <Button x:Name="changeText" Content="Kliknięcie zmienia etykietę" HorizontalAlignment="Center" Click="changeText_Click"/>
-    
+        
         <CheckBox x:Name="enableCheckbox" Content="Włącza zmianę etykiety" HorizontalAlignment="Center" IsChecked="True" Grid.Column="1" VerticalAlignment="Center"/>
-
+       
         <TextBlock x:Name="labelToChange" Grid.Row="1" TextWrapping="Wrap" Text="Naciśnij przycisk, aby zmienić tekst" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
     </Grid>
 </Window>
