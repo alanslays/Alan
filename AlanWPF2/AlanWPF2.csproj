@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4480BF0B-D1D3-4D4A-856B-AAE848AEB0AF}</ProjectGuid>
+    <ProjectGuid>{03A08844-59D3-42EE-AC16-69D2A16DED56}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>AlanWPF</RootNamespace>
-    <AssemblyName>AlanWPF</AssemblyName>
+    <RootNamespace>AlanWPF2</RootNamespace>
+    <AssemblyName>AlanWPF2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -63,7 +63,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="class.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
