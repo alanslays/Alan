@@ -8,10 +8,10 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel Grid.Row="1" Margin="120,0">
-            <TextBlock Text="Przydział prac robotników" Style="{StaticResource GroupHeaderTextStyle}"/>
+            <TextBlock Text="Przydział prac robotników" Style="{StaticResource GroupHeaderStyle}"/>
             <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
                 <StackPanel Margin="0,0,20,0">
-                    <TextBlock Text="Zadanie robotnicy" Margin="0,0,0,10" Style="{StaticResource BodyTextStyle}"/>
+                    <TextBlock Text="Zadanie robotnicy" Margin="0,0,0,10" Style="{StaticResource BodyStyle}"/>
                     <ComboBox SelectedIndex="0">
                         <ComboBoxItem Content="Nauczanie pszczółek"/>
                         <ComboBoxItem Content="Pielęgnacja jaj"/>
@@ -22,14 +22,14 @@
                     </ComboBox>
                 </StackPanel>
                 <StackPanel>
-                    <TextBlock Text="Shifts" Margin="0,0,0,10" Style="{StaticResource BodyTextStyle}"/>
+                    <TextBlock Text="Shifts" Margin="0,0,0,10" Style="{StaticResource BodyStyle}"/>
                     <TextBlock/>
                 </StackPanel>
-                <Button Content="Przypisz to zadanie robotnicy" Margin="20,20,0,0" Style="{StaticResouce TextButtonStyle}" />
+                <Button Content="Przypisz to zadanie robotnicy" Margin="20,20,0,0" Style="{StaticResouce ButtonStyle}" />
             </StackPanel>
             <Button Content="Przepracuj następną zmianę" Margin="0,20,0,0"/>
 
-            <TextBlock Text="Raport ze zmiany" Margin="0,40,0,20" Style="{StaticResource GroupHeaderTextStyle}"/>
+            <TextBlock Text="Raport ze zmiany" Margin="0,40,0,20" Style="{StaticResource GroupHeaderStyle}"/>
 
             <ScrollViewer BorderThickness="2" BorderBrush="White" Height="250" Content="
                           Raport zmiany numer 20&#13;
