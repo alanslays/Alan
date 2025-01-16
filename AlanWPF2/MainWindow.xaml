@@ -1,10 +1,6 @@
 ﻿<Window x:Class="AlanWPF2.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:AlanWPF2"
-        mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Window.Resources>
         <Style x:Key="GroupHeaderStyle" TargetType="TextBlock">
@@ -31,7 +27,7 @@
             <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
                 <StackPanel Margin="0,0,20,0">
                     <TextBlock Text="Zadanie robotnicy" Margin="0,0,0,10" Style="{StaticResource BodyStyle}"/>
-                    <ComboBox SelectedIndex="0">
+                    <ComboBox x:Name="TaskComboBox" SelectedIndex="0">
                         <ComboBoxItem Content="Nauczanie pszczółek"/>
                         <ComboBoxItem Content="Pielęgnacja jaj"/>
                         <ComboBoxItem Content="Utrzymywanie ula"/>
@@ -42,23 +38,17 @@
                 </StackPanel>
                 <StackPanel>
                     <TextBlock Text="Shifts" Margin="0,0,0,10" Style="{StaticResource BodyStyle}"/>
-                    <TextBlock/>
+                    <TextBox x:Name="ShiftsTextBox"/>
                 </StackPanel>
-                <Button Content="Przypisz to zadanie robotnicy" Margin="20,20,0,0" Style="{StaticResource ButtonStyle}" />
+                <Button Content="Przypisz to zadanie robotnicy" Margin="20,20,0,0" Style="{StaticResource ButtonStyle}" Click="AssignWorkButton_Click"/>
             </StackPanel>
-            <Button Content="Przepracuj następną zmianę" Margin="0,20,0,0"/>
+
+            <Button Content="Przepracuj następną zmianę" Margin="0,20,0,0" Click="NextShiftButton_Click"/>
 
             <TextBlock Text="Raport ze zmiany" Margin="0,40,0,20" Style="{StaticResource GroupHeaderStyle}"/>
 
             <ScrollViewer BorderThickness="2" BorderBrush="White" Height="250">
-                <TextBlock>
-                    Raport zmiany numer 20&#13;
-                    Robotnica numer 1 robi 'Zbieranie nektaru' jeszcze przez 2 zmiany&#13;
-                    Robotnica numer 2 zakończyła swoje zadanie&#13;
-                    Robotnica numer 2 nie pracuje&#13;
-                    Robotnica numer 3 robi 'Patrol z żądłami' jeszcze przez 3 zmiany&#13;
-                    Robotnica numer 4 robi 'Nauczanie pszczółek' jeszcze przez 4 zmiany
-                </TextBlock>
+                <TextBlock x:Name="ReportTextBlock"/>
             </ScrollViewer>
         </StackPanel>
     </Grid>
