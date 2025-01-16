@@ -6,6 +6,25 @@
         xmlns:local="clr-namespace:AlanWPF2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="GroupHeaderStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="0,10,0,5"/>
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+        <Style x:Key="BodyStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="Gray"/>
+        </Style>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="LightBlue"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="BorderBrush" Value="LightGray"/>
+        </Style>
+    </Window.Resources>
+
     <Grid>
         <StackPanel Grid.Row="1" Margin="120,0">
             <TextBlock Text="Przydział prac robotników" Style="{StaticResource GroupHeaderStyle}"/>
@@ -25,19 +44,22 @@
                     <TextBlock Text="Shifts" Margin="0,0,0,10" Style="{StaticResource BodyStyle}"/>
                     <TextBlock/>
                 </StackPanel>
-                <Button Content="Przypisz to zadanie robotnicy" Margin="20,20,0,0" Style="{StaticResouce ButtonStyle}" />
+                <Button Content="Przypisz to zadanie robotnicy" Margin="20,20,0,0" Style="{StaticResource ButtonStyle}" />
             </StackPanel>
             <Button Content="Przepracuj następną zmianę" Margin="0,20,0,0"/>
 
             <TextBlock Text="Raport ze zmiany" Margin="0,40,0,20" Style="{StaticResource GroupHeaderStyle}"/>
 
-            <ScrollViewer BorderThickness="2" BorderBrush="White" Height="250" Content="
-                          Raport zmiany numer 20&#13;
-                          Robotnica numer 1 robi 'Zbieranie nektaru' jeszcze przez 2 zmiany&#13;
-                          Robotnica numer 2 zakończyła swoje zadanie&#13;
-                          Robotnica numer 2 nie pracuje&#13;
-                          Robotnica numer 3 robi 'Patrol z żądłami' jeszcze przez 3 zmiany&#13;
-                          Robotnica numer 4 robi 'Nauczanie pszczółek' jeszcze przez 4 zmiany"/>
+            <ScrollViewer BorderThickness="2" BorderBrush="White" Height="250">
+                <TextBlock>
+                    Raport zmiany numer 20&#13;
+                    Robotnica numer 1 robi 'Zbieranie nektaru' jeszcze przez 2 zmiany&#13;
+                    Robotnica numer 2 zakończyła swoje zadanie&#13;
+                    Robotnica numer 2 nie pracuje&#13;
+                    Robotnica numer 3 robi 'Patrol z żądłami' jeszcze przez 3 zmiany&#13;
+                    Robotnica numer 4 robi 'Nauczanie pszczółek' jeszcze przez 4 zmiany
+                </TextBlock>
+            </ScrollViewer>
         </StackPanel>
     </Grid>
 </Window>
